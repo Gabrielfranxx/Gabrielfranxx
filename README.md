@@ -38,6 +38,5 @@ Me chamo Gabriel, tenho 19 anos e sou natural de São Paulo. Sou estudante de Ba
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielfranxx/Gabrielfranx/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielfranxx/Gabrielfranx/output/github-contribution-grid-snake.svg">
 </picture>
-
 <br><br>
 
