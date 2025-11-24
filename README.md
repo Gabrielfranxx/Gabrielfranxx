@@ -33,4 +33,11 @@ Me chamo Gabriel, tenho 19 anos e sou natural de São Paulo. Sou estudante de Ba
     title="python"
     width="40px"
     src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielfranx/aniasouga/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielfranx/Gabrielfranx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielfranx/Gabrielfranx/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
 
